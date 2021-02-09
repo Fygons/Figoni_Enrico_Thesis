@@ -1,2 +1,3 @@
 # Figoni_Enrico_Thesis
-Dataset and code used for the final thesis in Data Science Master Degree
+Code used for the final thesis in Data Science Master Degree.
+Unfortunately, the dataset is unavailable to distribution.
